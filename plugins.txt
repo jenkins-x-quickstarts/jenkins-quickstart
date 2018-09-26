@@ -31,6 +31,7 @@ cloudbees-folder:6.6
 command-launcher:1.2
 config-file-provider:3.1
 configuration-as-code:1.0
+configuration-as-code-support:1.0
 credentials:2.1.18
 credentials-binding:1.16
 display-url-api:2.2.0
